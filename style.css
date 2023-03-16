@@ -21,7 +21,7 @@
 .ex-5-square {
     margin: 20px;
     width: 60px;
-    height: 60px;
+    aspect-ratio: 1;
     background: red;
 }
 .ex-6-img, .ex-7-img, .ex-8-img {
